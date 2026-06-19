@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "anti-snowballs",
+  "version": "${version}",
+  "name": "Anti Snowballs Plus+",
+  "description": "Anti Snowballs Plus+ is a Minecraft 1.21 client-side utility mod designed to combat the devastating lag caused by snowball generating machines.",
+  "authors": ["sm0keskreen"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "minecraft": ">=26.1.2",
+    "fabricloader": ">=0.19.3",
+    "fabric": ">=0.152.1+26.1.2"
+  }
+}
